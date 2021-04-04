@@ -28,7 +28,7 @@ Leraning and sharing experiences about Authentication server:
 
 * How to biuld Authentication server:
 * Running and testing Authentication server:
-* Using open source Authentication server: [keycloak](https://www.keycloak.org/) (right sidebar).
+* Using open source Authentication server: [keycloak](https://www.keycloak.org/).
 * [Documents](https://oauth.net/).
 
 ### Next next post
