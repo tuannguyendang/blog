@@ -7,8 +7,7 @@ title: microservices
 
 ### Big picture
 
-![Microservices architecture](/img/bigpicture.png)
-<img src="/img/bigpicture.png" class="img-responsive" alt="" />
+![Microservices architecture](https://tuannguyendang.github.io/blog/img/bigpicture.png)
 
 Techlology using:
 
