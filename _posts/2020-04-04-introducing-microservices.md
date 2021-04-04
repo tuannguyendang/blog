@@ -7,7 +7,7 @@ title: microservices
 
 ### Big picture
 
-![Microservices architecture](https://tuannguyendang.github.io/blog/img/bigpicture.png)
+![Microservices architecture](https://tuannguyendang.github.io/blog/public/img/bigpicture.png)
 
 Techlology using:
 
@@ -24,7 +24,7 @@ Techlology using:
 
 ### Next post
 
-Leraning and sharing experiences about Authentication server::
+Leraning and sharing experiences about Authentication server:
 
 * How to biuld Authentication server:
 * Running and testing Authentication server:
