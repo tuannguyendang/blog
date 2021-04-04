@@ -7,7 +7,7 @@ title: microservices
 
 ### Big picture
 
-![Microservices architecture](/public/images/bigpicture.png)
+![Microservices architecture](https://github.com/tuannguyendang/blog/blob/gh-pages/public/images/bigpicture.png)
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
