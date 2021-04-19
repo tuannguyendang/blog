@@ -7,7 +7,7 @@ title: microservices
 
 ### Big picture
 
-![Microservices architecture](https://tuannguyendang.github.io/blog/public/img/bigpicture.png)
+![Microservices architecture](https://tuannguyendang.github.io/blog/public/img/20210417/bigpicture.png)
 
 Techlology using:
 
