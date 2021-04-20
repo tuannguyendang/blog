@@ -2,8 +2,8 @@
 title:               Tuan Nguyen
 tagline:             'Stop talking start building'
 description:         'Blog share something from <a href="https://tuannguyendang.github.io/blog/" target="_blank">Tuan Nguyen</a> for some one coder. Made by <a href="https://www.linkedin.com/in/tuan-nguyen-dang-b97b8366/" target="_blank">tuan193@gmail.com</a>.'
-url:                 blog
-baseurl:             'https://tuannguyendang.github.io/'
+url:                 https://tuannguyendang.github.io/
+baseurl:             'blog'
 paginate:            5
 permalink:           pretty
 
