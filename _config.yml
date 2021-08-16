@@ -2,7 +2,7 @@
 title:               Tuan Nguyen
 tagline:             'Stop talking start building'
 description:         'Blog share something from <a href="culiti.com" target="_blank">Tuan Nguyen</a> for some one coder. Made by <a href="https://www.linkedin.com/in/tuan-nguyen-dang-b97b8366/" target="_blank">tuan193@gmail.com</a>.'
-url:                 culiti.com
+url:                 https://tuannguyendang.github.io/blog
 baseurl:             ''
 paginate:            5
 permalink:           pretty
