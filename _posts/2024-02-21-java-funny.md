@@ -7,8 +7,6 @@ title: java-funny
 
 ### Who created java ?
 
-![Microservices architecture](https://tuannguyendang.github.io/blog/public/img/20210417/bigpicture.png)
-
 Java was created by James Gosling, Mike Sheridan, and Patrick Naughton, who were engineers at Sun Microsystems at the time. They began the project in 1991, with the goal of developing a language for digital devices, particularly for interactive television. Java was officially released to the public in 1995, with its "Write Once, Run Anywhere" (WORA) philosophy, allowing Java programs to run on any device with a Java Virtual Machine (JVM). Over the years, Java has become one of the most popular programming languages worldwide, used for a wide range of applications, including web development, mobile app development, enterprise software, and more.
 
 ### Why Java has class ?
